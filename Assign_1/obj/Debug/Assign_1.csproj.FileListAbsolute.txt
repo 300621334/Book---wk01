@@ -1,0 +1,6 @@
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\bin\Debug\Assign_1.exe.config
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\bin\Debug\Assign_1.exe
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\bin\Debug\Assign_1.pdb
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\obj\Debug\Assign_1.csprojResolveAssemblyReference.cache
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\obj\Debug\Assign_1.exe
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assign_1\obj\Debug\Assign_1.pdb

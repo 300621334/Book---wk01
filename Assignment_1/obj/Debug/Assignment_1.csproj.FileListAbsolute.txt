@@ -1,0 +1,9 @@
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\obj\Debug\Assignment_1.csprojResolveAssemblyReference.cache
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\Assignment_1\obj\Debug\Assignment_1.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\wk01\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\wk01\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\wk01\Assignment_1\obj\Debug\Assignment_1.pdb

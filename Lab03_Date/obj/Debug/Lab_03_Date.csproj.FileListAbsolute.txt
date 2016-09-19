@@ -1,0 +1,6 @@
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\bin\Debug\Lab_03_Date.exe.config
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\bin\Debug\Lab_03_Date.exe
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\bin\Debug\Lab_03_Date.pdb
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\obj\Debug\Lab_03_Date.exe
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\obj\Debug\Lab_03_Date.pdb
+H:\Comp-123 - C#\Projects\wk01\Lab_03_Date\obj\Debug\Lab_03_Date.csprojResolveAssemblyReference.cache

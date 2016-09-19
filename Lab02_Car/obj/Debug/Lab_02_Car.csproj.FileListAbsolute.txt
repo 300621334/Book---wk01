@@ -1,0 +1,5 @@
+H:\Comp-123 - C#\Projects\wk01\Lab_02_Car\bin\Debug\Lab_02_Car.exe.config
+H:\Comp-123 - C#\Projects\wk01\Lab_02_Car\bin\Debug\Lab_02_Car.exe
+H:\Comp-123 - C#\Projects\wk01\Lab_02_Car\bin\Debug\Lab_02_Car.pdb
+H:\Comp-123 - C#\Projects\wk01\Lab_02_Car\obj\Debug\Lab_02_Car.exe
+H:\Comp-123 - C#\Projects\wk01\Lab_02_Car\obj\Debug\Lab_02_Car.pdb

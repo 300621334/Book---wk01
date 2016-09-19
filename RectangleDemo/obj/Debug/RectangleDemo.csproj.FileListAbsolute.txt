@@ -1,0 +1,12 @@
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.exe.config
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.exe
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.pdb
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.csprojResolveAssemblyReference.cache
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.exe
+c:\users\300621334\documents\visual studio 2013\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.pdb
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.exe.config
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.exe
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\bin\Debug\RectangleDemo.pdb
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.exe
+C:\Users\Mani\Google Drive\Semester-2\Comp-123 - Programming 2\Projects\wk01\RectangleDemo\obj\Debug\RectangleDemo.pdb
